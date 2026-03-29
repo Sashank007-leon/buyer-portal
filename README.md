@@ -28,7 +28,11 @@ A simple property marketplace where buyers can browse listings and manage a pers
 3. Frontend Setup
    Go to `frontend/` folder and run `npm install`.
    Create a `.env` file:
+
+   ```env
    VITE_API_URL=http://localhost:5000/api
+   ```
+   
    Run npm run dev and open http://localhost:5173.
 
 `Example User Flows`
